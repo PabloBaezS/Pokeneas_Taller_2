@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokenea - {{ pokenea.name }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>{{ pokenea.name }}</h1>
+        <img class="pokenea-image" src="{{ pokenea.image }}" alt="{{ pokenea.name }}">
+        <p class="philosophy">"{{ pokenea.philosophy }}"</p>
+        <p class="container-id">Container ID: <span>{{ container_id }}</span></p>
+        <button onclick="window.location.href='/'">Volver a la Landing</button>
+    </div>
+</body>
+</html>

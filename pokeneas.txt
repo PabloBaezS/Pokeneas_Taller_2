@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Medilión",
+        "height": "1.2m",
+        "ability": "Rugido Vibrante: Emite un rugido lleno de energía que inspira a quienes lo escuchan y mejora su ánimo, además de repeler a cualquier amenaza cercana.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/leon.webp",
+        "philosophy": "El rugido más fuerte no siempre es el que asusta, sino el que une al corazón con la calle!"
+    },
+    {
+        "id": 2,
+        "name": "Medidolph",
+        "height": "1.5m",
+        "ability": "Salto Ritmico: Realiza saltos acrobáticos sincronizados al ritmo de la música urbana, que energizan y atraen la atención de todos a su alrededor.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/delfin.webp",
+        "philosophy": "La corriente no decide quién eres, tu estilo y tus saltos sí!"
+    },
+    {
+        "id": 3,
+        "name": "Meditigresa",
+        "height": "1.6m",
+        "ability": "Garra Urbana: Combina velocidad y precisión con sus movimientos felinos para superar cualquier obstáculo en la ciudad.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/tigre.webp",
+        "philosophy": "La verdadera fuerza no está en las garras, sino en el corazón que las guía!"
+    },
+    {
+        "id": 4,
+        "name": "Mediperrito",
+        "height": "0.9m",
+        "ability": "Cola Rítmica: Mueve su cola al ritmo de la música, animando el ambiente y contagiando alegría a todos a su alrededor.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/perronino.webp",
+        "philosophy": "Un ladrido feliz puede cambiar hasta el día más gris :)"
+    },
+    {
+        "id": 5,
+        "name": "Condormedallo",
+        "height": "2.5 metros (con alas extendidas)",
+        "ability": "Vuelo Sabio: Puede volar grandes distancias, observando el panorama y brindando consejos estratégicos a quienes lo rodean.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/condor.webp",
+        "philosophy": "Desde las alturas, todos los caminos tienen su razón de ser.!"
+    },
+    {
+        "id": 6,
+        "name": "Dinomedallo",
+        "height": "2.1 metros",
+        "ability": "Zancada Prehistórica: Da grandes saltos y se mueve ágilmente por los tejados y calles, aprovechando su fuerza y tamaño.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/dino.webp",
+        "philosophy": "No importa si eres de la era antigua o moderna, siempre puedes dejar huella!"
+    },
+    {
+        "id": 7,
+        "name": "Loromedalla",
+        "height": "1.4m",
+        "ability": "Voz Vibrante: Su canto es tan melodioso que llena de alegría cualquier rincón, uniendo a la gente con sus notas llenas de vida.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/loro.webp",
+        "philosophy": "No importa cuán pequeña sea tu voz, si hablas con el corazón siempre resonará fuerte!"
+    },
+    {
+        "id": 8,
+        "name": "Comadremedallo",
+        "height": "1.6m",
+        "ability": "Astucia Callejera: Siempre encuentra soluciones rápidas y creativas para cualquier desafío que se le presente.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/comadreja.webp",
+        "philosophy": "La agilidad no está en los pies, sino en la mente que los guía!"
+    },
+    {
+        "id": 9,
+        "name": "Pandapaisa",
+        "height": "1.5m",
+        "ability": "Sabiduría Sereno: Comparte historias y enseñanzas que inspiran y fortalecen a quienes lo escuchan.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/panda.webp",
+        "philosophy": "La paciencia y la sabiduría pesan más que cualquier carga!"
+    },
+    {
+        "id": 10,
+        "name": "Gatomedallo",
+        "height": "1.7m",
+        "ability": "Reflejos Urbanos: Se mueve con rapidez y precisión, esquivando cualquier obstáculo en las concurridas calles de la ciudad.",
+        "image": "https://storage.googleapis.com/pokeneas_topics_ing_soft/gato.webp",
+        "philosophy": "Los mejores caminos son los que recorres con suavidad y confianza, como un buen salto felino!"
+    }
+]

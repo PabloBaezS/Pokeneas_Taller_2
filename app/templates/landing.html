@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokeneas App</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Bienvenido a Pokeneas</h1>
+    <p>Elige una opción para explorar nuestra aplicación:</p>
+    <button onclick="window.location.href='/image'">Mostrar Pokenea</button>
+    <button onclick="window.location.href='/json'">Obtener Info</button>
+</body>
+</html>
